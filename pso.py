@@ -75,7 +75,7 @@ if __name__ == "__main__":
     
     swarm = []
     no_swarm = 10
-    max_iter = 100000
+    max_iter = 40
     
     for i in range(no_swarm):
         swarm.append(particle(2))
